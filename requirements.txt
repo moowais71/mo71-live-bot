@@ -1,3 +1,0 @@
-ib_insync
-flask
-requests
